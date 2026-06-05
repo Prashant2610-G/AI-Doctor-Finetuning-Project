@@ -1,22 +1,30 @@
-# AI Doctor Fine-Tuning Project
+# 🩺 AI Doctor Fine-Tuning Project
 
 ## Overview
-This project fine-tunes a Large Language Model to act as an AI Doctor Assistant.
+This project fine-tunes a Large Language Model to act as an AI Doctor Assistant capable of answering medical-related queries.
 
-## Technologies
+## Tech Stack
 - Python
 - Unsloth
+- Hugging Face Transformers
 - TRL
-- Hugging Face
-- Qwen/Llama
+- PEFT (LoRA)
+- PyTorch
 
 ## Features
-- Medical question answering
-- Fine-tuning using custom datasets
-- LoRA training
+- Medical instruction tuning
+- Custom dataset training
+- LoRA fine-tuning
+- Model inference
 
-## Dataset
-Custom medical dataset in instruction format.
+## Project Structure
+
+AI-Doctor-Finetuning-Project/
+├── notebooks/
+├── datasets/
+├── scripts/
+├── requirements.txt
+└── README.md
 
 ## Author
 Prasant Kumar
