@@ -221,7 +221,7 @@ bitsandbytes
 
 ## 👨‍💻 Author
 
-**Prasant Kumar**
+**Prashant Kumar**
 
 *AI/ML Engineer | LLM Fine-tuning | Medical AI*
 
